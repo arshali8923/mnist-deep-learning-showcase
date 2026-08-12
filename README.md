@@ -44,13 +44,13 @@ It highlights how different deep learning architectures perform on the same data
 
 ---
 
-## 📈 Results
+##  Results
 - **CNN Accuracy**: ~98%  
 - **RNN Accuracy**: ~92–95%  
 - CNN outperforms RNN due to spatial feature extraction.  
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 - Confusion matrices plotted using **Seaborn heatmaps**  
 - Classification reports generated using **scikit-learn**  
