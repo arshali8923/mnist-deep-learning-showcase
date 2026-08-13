@@ -1,3 +1,4 @@
+# MNIST Digit Classification (CNN vs RNN)
 import torch
 import torch.nn as nn
 import torch.optim as optim
